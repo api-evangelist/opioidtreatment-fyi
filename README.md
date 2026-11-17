@@ -64,5 +64,120 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Opioid Treatment Directory is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://opioidtreatment.fyi
+Opioid Treatment Directory provides a searchable directory of opioid treatment providers across the United States and other countries. Users can find providers, compare medications, care settings, and contact details, and access treatment guides, tools, and resources. The platform aims to help individuals locate appropriate treatment options and connect with qualified clinicians.
+
+**Areas:** Company · Health · Directory · OpioidTreatment · API
+
+## Opioid Treatment Directory on APIs.io
+
+Everything profiled for Opioid Treatment Directory is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/opioidtreatment-fyi/](https://apis.io/providers/opioidtreatment-fyi/)** — or go straight to one of the APIs or properties below.
+
+### APIs (11)
+
+- [Opioid Treatment Directory Academy API](https://apis.io/apis/opioidtreatment-fyi/opioidtreatment-fyi-academy-api/) — The Academy API from Opioid Treatment Directory — 2 operation(s) for academy.
+- [Opioid Treatment Directory Admin API](https://apis.io/apis/opioidtreatment-fyi/opioidtreatment-fyi-admin-api/) — The Admin API from Opioid Treatment Directory — 166 operation(s) for admin.
+- [Opioid Treatment Directory Categories API](https://apis.io/apis/opioidtreatment-fyi/opioidtreatment-fyi-categories-api/) — The Categories API from Opioid Treatment Directory — 1 operation(s) for categories.
+- [Opioid Treatment Directory Certificates API](https://apis.io/apis/opioidtreatment-fyi/opioidtreatment-fyi-certificates-api/) — The Certificates API from Opioid Treatment Directory — 1 operation(s) for certificates.
+- [Opioid Treatment Directory Listings API](https://apis.io/apis/opioidtreatment-fyi/opioidtreatment-fyi-listings-api/) — The Listings API from Opioid Treatment Directory — 2 operation(s) for listings.
+- [Opioid Treatment Directory Places API](https://apis.io/apis/opioidtreatment-fyi/opioidtreatment-fyi-places-api/) — The Places API from Opioid Treatment Directory — 1 operation(s) for places.
+- [Opioid Treatment Directory Product Categories API](https://apis.io/apis/opioidtreatment-fyi/opioidtreatment-fyi-product-categories-api/) — The Product Categories API from Opioid Treatment Directory — 1 operation(s) for product categories.
+- [Opioid Treatment Directory Products API](https://apis.io/apis/opioidtreatment-fyi/opioidtreatment-fyi-products-api/) — The Products API from Opioid Treatment Directory — 2 operation(s) for products.
+- [Opioid Treatment Directory Sources API](https://apis.io/apis/opioidtreatment-fyi/opioidtreatment-fyi-sources-api/) — The Sources API from Opioid Treatment Directory — 1 operation(s) for sources.
+- [Opioid Treatment Directory Sponsor API](https://apis.io/apis/opioidtreatment-fyi/opioidtreatment-fyi-sponsor-api/) — The Sponsor API from Opioid Treatment Directory — 2 operation(s) for sponsor.
+- [Opioid Treatment Directory Stats API](https://apis.io/apis/opioidtreatment-fyi/opioidtreatment-fyi-stats-api/) — The Stats API from Opioid Treatment Directory — 1 operation(s) for stats.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Opioid Treatment Directory Agentic Access](https://apis.io/agentic-access/opioidtreatment-fyi/opioidtreatment-fyi-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Opioidtreatment Fyi Context](https://apis.io/jsonld/opioidtreatment-fyi/opioidtreatment-fyi-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Opioid Treatment Directory API Rules](https://apis.io/rules/opioidtreatment-fyi/opioidtreatment-fyi-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Opioid Treatment Directory Domain Security](https://apis.io/security/opioidtreatment-fyi/opioidtreatment-fyi-domain-security/)
+- [Opioid Treatment Directory Vulnerability Disclosure](https://apis.io/security/opioidtreatment-fyi/opioidtreatment-fyi-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://opioidtreatment.fyi)
+- [Documentation](https://opioidtreatment.fyi/developers)
+- [API reference](https://opioidtreatment.fyi/api/v1/openapi.json)
+- [Support](https://opioidtreatment.fyi/support)
+- [Terms of service](https://opioidtreatment.fyi/terms)
+- [Privacy policy](https://opioidtreatment.fyi/privacy)
+
+## API Evangelist rating
+
+**Kin Score 40.1** — developing · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 78.6 |
+| Contract quality | 45.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 27.9 |
+| Access clarity | 17.0 |
+
+**Agent readiness 47.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | yes |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 19.5** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/opioidtreatment-fyi/](https://apis.io/providers/opioidtreatment-fyi/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Opioid Treatment Directory: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/opioidtreatment-fyi/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
